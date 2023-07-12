@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rivu Naskar</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
 
-- 🔭 I’m currently working on **Twitter backend clone**
+- 🔭 I’m currently working on **Structured Query Driven Learning System**
 
 - 🌱 I’m currently learning **Docker and AWS**
 
