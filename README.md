@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rivu Naskar</h1>
-<h3 align="center">Backend-Focused Full Stack Developer | Java • Spring Boot • MERN</h3>
+<h3 align="center">Backend-Focused Full Stack Developer | Java • Spring Boot • Cloud & Scalable Systems</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building **Structured Query Driven Learning System**
-- 🌱 Learning **Docker, AWS & System Design**
-- 💡 Strong focus on **Backend Engineering & Scalable Systems**
-- ⚡ Experience with **Java (Spring Boot) + Node.js (MERN Stack)**
-- 🎯 Targeting **FAANG / High-growth startups**
+- 🚀 Currently focused on mastering **Cloud (AWS) & Scalable System Design**
+- 🌱 Learning **Docker, AWS, System Design, and Distributed Systems**
+- 💡 Strong interest in **Backend Engineering & High-Performance Systems**
+- ⚡ Experience with **Java (Spring Boot) & Node.js (MERN Stack)**
+- 🎯 Targeting **FAANG / Top Product-Based Companies / High-growth Startups**
 
 ---
 
@@ -29,19 +29,10 @@
 - React.js
 - HTML, CSS, Bootstrap
 
-### ⚙️ DevOps & Tools
+### ⚙️ DevOps & Cloud
 - Docker (Learning)
 - AWS (Learning)
 - Git & GitHub
-
----
-
-## 📌 Featured Project
-
-### 🧠 Structured Query Driven Learning System
-- Built a system to improve learning using **query-based knowledge retrieval**
-- Focus on **efficient data modeling & backend performance**
-- Designed APIs for **scalable content delivery**
 
 ---
 
@@ -59,7 +50,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/rivu_naskar" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
@@ -79,6 +70,6 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Focus
 
-> I enjoy solving complex backend problems and turning them into scalable systems 🚀
+> Building scalable backend systems and mastering cloud infrastructure 🚀
