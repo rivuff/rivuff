@@ -9,7 +9,6 @@
 - 🌱 Learning **Docker, AWS, System Design, and Distributed Systems**
 - 💡 Strong interest in **Backend Engineering & High-Performance Systems**
 - ⚡ Experience with **Java (Spring Boot) & Node.js (MERN Stack)**
-- 🎯 Targeting **FAANG / Top Product-Based Companies / High-growth Startups**
 
 ---
 
@@ -47,19 +46,12 @@
 </p>
 
 ---
-
-## 🌐 Connect With Me
+<h3 align="center">Connect with me</h3>
 
 <p align="center">
-<a href="https://twitter.com/rivu_naskar" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/rivu-naskar-b039191ba/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/codeblo0ded" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
+  <a href="https://twitter.com/rivu_naskar"><img src="https://img.icons8.com/color/48/twitter--v1.png"/></a>
+  <a href="https://linkedin.com/in/rivu-naskar-b039191ba/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://leetcode.com/codeblo0ded"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
 </p>
 
 ---
