@@ -1,24 +1,84 @@
 <h1 align="center">Hi 👋, I'm Rivu Naskar</h1>
-<h3 align="center">A passionate fullstack developer from India.</h3>
+<h3 align="center">Backend-Focused Full Stack Developer | Java • Spring Boot • MERN</h3>
 
-- 🔭 I’m currently working on **Structured Query Driven Learning System**
+---
 
-- 🌱 I’m currently learning **Docker and AWS**
+## 🧑‍💻 About Me
 
-- 💬 Ask me about **JS, Node, Java, database management System.**
+- 🔭 Currently building **Structured Query Driven Learning System**
+- 🌱 Learning **Docker, AWS & System Design**
+- 💡 Strong focus on **Backend Engineering & Scalable Systems**
+- ⚡ Experience with **Java (Spring Boot) + Node.js (MERN Stack)**
+- 🎯 Targeting **FAANG / High-growth startups**
 
-- 📫 How to reach me **rivunaskar0@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rivu_naskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rivu_naskar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rivu-naskar-b039191ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rivu-naskar-b039191ba/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codeblo0ded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codeblo0ded" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+
+### 🚀 Backend
+- Java, Spring Boot, REST APIs
+- Node.js, Express.js
+- Microservices Architecture
+- RabbitMQ (Event-driven systems)
+
+### 🗄️ Databases
+- MySQL, MongoDB, Oracle
+- Query Optimization & DB Design
+
+### 🌐 Frontend
+- React.js
+- HTML, CSS, Bootstrap
+
+### ⚙️ DevOps & Tools
+- Docker (Learning)
+- AWS (Learning)
+- Git & GitHub
+
+---
+
+## 📌 Featured Project
+
+### 🧠 Structured Query Driven Learning System
+- Built a system to improve learning using **query-based knowledge retrieval**
+- Focus on **efficient data modeling & backend performance**
+- Designed APIs for **scalable content delivery**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rivuff&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivuff&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivuff&show_icons=true&locale=en&layout=compact" alt="rivuff" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rivuff&show_icons=true&locale=en" alt="rivuff" /></p>
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/rivu_naskar" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/rivu-naskar-b039191ba/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/codeblo0ded" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📫 Reach Me
+
+📧 **rivunaskar0@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy solving complex backend problems and turning them into scalable systems 🚀
